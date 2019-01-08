@@ -1,6 +1,7 @@
-# Python Kampala Community Website.
+# Python Kampala Community Website
 
-## The website is under contruction with the following features;
+## The website is under contruction with the following features
+
 - Upcoming Events
 - Previous Talks()
 - Team
