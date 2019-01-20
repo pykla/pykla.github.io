@@ -1,12 +1,69 @@
 /*Basic styling for fonts to use*/
+html{
+    padding: 5px;
+}
 .underline{
     text-decoration: underline;
 }
 
-h1, h3{
+h1, h3, a{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-li{
-    font-family: 'Courier New', Courier, monospace;
+li, h5{
+    font-family: 'Courier New', Courier, monospace;  
 }
+
+span{
+    border-style: solid;
+    border-width: 0.5px;
+    padding: 5px;
+}
+
+/*Links*/
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+    background-color: black;
+    padding: 0px;
+    border-radius: 5px;
+    
+}
+
+/*Team*/
+.avatar{
+    border-radius: 100%;
+    max-height: 60px;
+}
+
+li.team{
+    display: block;
+}
+
+a.white-bg:hover{
+    background-color: white;
+}
+
+
+/*Layout*/
+section{
+    max-width: 500px;
+}
+
+section.jobs{
+    position: absolute;
+    right: 20%;
+    top: 100px;
+    border-style: solid;
+    padding: 5px;
+    border-left-width: 5px;
+    border-right-width: 0px;
+    border-top-width: 0.5px;
+    border-bottom-width: 0px;
+}
+
+
