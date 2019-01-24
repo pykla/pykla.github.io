@@ -15,4 +15,4 @@
 
 ## Resources
 
-URL for members [GitHub Organisation API end point](https://api.github.com/orgs/pykla/members)
+- [GitHub Organisation API end point](https://api.github.com/orgs/pykla/members)
