@@ -8,5 +8,10 @@
 - Community Members
 - Job Board
 
-Resources.
-URL for members https://api.github.com/orgs/pykla/members
+## TODO
+
+[] Basic bulletin board for posting talks & jobs using cloud functions & Python?
+[] Internal bashboard to control contents of board for PyKla Admins
+
+## Resources.
+URL for members [GitHub Organisation API end point](https://api.github.com/orgs/pykla/members)
