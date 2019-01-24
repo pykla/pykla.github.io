@@ -4,7 +4,6 @@
 
 - Upcoming Events
 - Previous Talks
-- Team
 - Community Members
 - Job Board
 
